@@ -1,5 +1,6 @@
 {
     "hostIP": "localhost",
-    "port": 5560,
-    "path": "./"
+    "port": 5500,
+    "path": "./",
+    "log_file": "./log.log"
 }
